@@ -1,0 +1,1 @@
+some text i am writing so i can commit it later. so i can learn git and github.
