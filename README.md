@@ -1,3 +1,2 @@
 # git-hub-test
-first repo!
-hello aria whats you doing?
+this is my first repo. i am testing out how to push git commmits and stuff. a beginning of a journey.
